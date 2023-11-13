@@ -8,6 +8,8 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.9"
+requests = "^2.31.0"
+pydantic = "^2.5.0"
 
 [tool.poetry.dev-dependencies]
 
