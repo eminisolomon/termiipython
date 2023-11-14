@@ -13,7 +13,7 @@ pip install termiipython
 - Send SMS
 
 ```bash
-from termii.Termii import Termii
+from termiipython.Termii import Termii
 
 # Initialize a Termii instance with your sender ID and API key
 termii = Termii(sender_id='TERMII_SENDER_ID', api_key='TERMII_API_KEY')
@@ -34,7 +34,7 @@ print(response)
 - Send Token
 
 ```bash
-from termii.Termii import Termii
+from termiipython.Termii import Termii
 
 # Initialize a Termii instance with your sender ID and API key
 termii = Termii(sender_id='TERMII_SENDER_ID', api_key='TERMII_API_KEY')
@@ -55,7 +55,7 @@ print(response)
 - Verify Token
 
 ```bash
-from termii.Termii import Termii
+from termiipython.Termii import Termii
 
 # Initialize a Termii instance with your sender ID and API key
 termii = Termii(sender_id='TERMII_SENDER_ID', api_key='TERMII_API_KEY')
@@ -74,7 +74,7 @@ print(response)
 - InApp Token
 
 ```bash
-from termii.Termii import Termii
+from termiipython.Termii import Termii
 
 # Initialize a Termii instance with your sender ID and API key
 termii = Termii(sender_id='TERMII_SENDER_ID', api_key='TERMII_API_KEY')
@@ -93,7 +93,7 @@ print(response)
 - Available Methods
 
 ```bash
-from termii.Termii import Termii
+from termiipython.Termii import Termii
 
 # Initialize a Termii instance with your sender ID and API key
 termii = Termii(sender_id='TERMII_SENDER_ID', api_key='TERMII_API_KEY')
