@@ -2,7 +2,7 @@
 # Author: Solomon Olatunji
 # Email: aotoluwalope@gmail.com
 
-from termii.Termii import Termii
+from termiipython.Termii import Termii
 
 
 class Insight(Termii):

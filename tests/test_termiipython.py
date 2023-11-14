@@ -1,5 +1,5 @@
 import unittest
-from termii.Termii import Termii
-from termii.Insight import Insight
+from termiipython.Termii import Termii
+from termiipython.Insight import Insight
 
-from termii.Termii import Insight
+from termiipython.Termii import Insight
