@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "termiipython"
-version = "3.0.0"
+version = "3.1.0"
 description = "Termii Python Library for Termii API"
 authors = ["Solomon Olatunji"]
 license = "MIT"
@@ -10,6 +10,7 @@ readme = "README.md"
 python = "^3.9"
 requests = ">=2.23.0,<=2.31.0"
 pydantic = ">=1.10.4,<=2.5.0"
+pytest = "^7.4.3"
 
 [tool.poetry.dev-dependencies]
 
