@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "termiipython"
-version = "2.0.0"
+version = "3.0.0"
 description = "Termii Python Library for Termii API"
 authors = ["Solomon Olatunji"]
 license = "MIT"
